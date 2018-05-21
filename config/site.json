@@ -1,10 +1,10 @@
 {
-	"title" : "CEA Staff Wiki",
-	"domain" : "cea-wiki.org",
+	"title" : "Jane Deere | Coaching",
+	"domain" : "janedeere.com.au",
 	"protocol" : "https://",
-	"description": "CEA Staff Wiki",
-  "logo": "https://images.contentful.com/es8pp29e1wp8/1S3GbfZNWsEu0oewkgQIcK/83512426465d180b4f15b77e3ea2795b/CEA_Logo_Blue.png",
-	"shortDescription": "Staff wiki - Help us keep content up to date by editing the Staff Wiki space in contentful",
+	"description": "Jane Deere | Coaching",
+  "logo": "https://images.ctfassets.net/iae2twiv8rye/2vwQWJH6qYICUaoEi4Co40/5aa9a1201d6631f467a13d5e26dce19d/jane-deere-logo.png",
+	"shortDescription": "Narrative coaching for finding meaning, and building towards your best self.",
   "social": {
     "twitter": false
   }
