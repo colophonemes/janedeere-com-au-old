@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+http://janedeere.netlify.com/* http://janedeere.com.au/:splat 301!
